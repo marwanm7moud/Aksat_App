@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723661615366",
+    "project_id": "aksat-8f06a",
+    "storage_bucket": "aksat-8f06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723661615366:android:56b59e8be37d09d98cae87",
+        "android_client_info": {
+          "package_name": "com.example.aksat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723661615366-ajoh5l4bpmc4k2q0jvj5g4o77p8hmc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrIWV80jCFI0Jt3gCl93HbdcACi9H8F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723661615366-ajoh5l4bpmc4k2q0jvj5g4o77p8hmc5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
